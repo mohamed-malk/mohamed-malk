@@ -1,78 +1,61 @@
-# Hi there, I'm Mohamed Yasser 👋
+# Hi, I'm Mohamed Yasser Ali 👋
 
-### 🚀 About Me
-I am a **Software Engineer** and **Data Scientist** passionate about building robust, scalable enterprise backends and diving deep into machine learning architectures. My experience spans designing multi-module enterprise systems with complex domain logic, optimizing database internals, and implementing explainable AI models.
+**Full-Stack .NET Engineer** with 3+ years of experience building multi-tenant SaaS, ERP, e-commerce and cybersecurity platforms with **C#, ASP.NET Core 8, Entity Framework Core, and SQL Server** (Angular for SPA work). I enjoy Clean Architecture, claims-based authorization, real-time systems and third-party integrations. I also publish research on explainable AI.
 
-* 🌍 Based in: Cairo / Port Said, Egypt
-* 💻 Currently working as: Full Stack .NET Web Developer at EkadSoft
-* 🧠 Deep Diving Into: Custom storage engines, database concurrency control (2PL), and advanced Deep Learning architectures
-
----
-
-### 🛠️ Tech Stack & Skills
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Backend & Architecture** | C#, .NET Core, ASP.NET Core / MVC, Razor Pages, EF Core, Clean Architecture |
-| **Data Science & ML** | Python, TensorFlow, Deep Learning, Transformers, LIME, SHAP, Data Visualization |
-| **Databases & Storage** | PostgreSQL, MongoDB, SQL Server, SQL, Custom Storage Engines |
-| **Frontend & Tools** | JavaScript, Git, TFS, Docker, VS Code, Homebrew, Fast Report |
+- 🌍 Based in Cairo, Egypt
+- 💼 Full-Stack Software Engineer at Ekad Software (Jan 2025 – Present)
+- 🧠 Exploring: database internals (storage engines, 2PL concurrency control) and deep learning architectures
 
 ---
 
-### 💻 Enterprise Backend Experience
+### 🛠️ Tech Stack
 
-#### 🏨 Full Stack .NET Web Developer | EkadSoft *(Jan 2025 - Present)*
-* **Multi-Module Hotel Management System:** Contributed to the design and development using ASP.NET MVC / Razor Pages following strict Clean Architecture guidelines.
-* **Core Booking Engine:** Built a role-based booking engine featuring dynamic authorization, overbooking rule logic, meal pricing, and real-time availability tracking.
-* **HR & Payroll Integration:** Designed cross-module workflows across Housekeeping, CRM, and HR, including automated country-based tax calculations, net salary processing, and Fast Report exports.
-* **Event-Driven Notifications:** Implemented an auto-triggered notification system to keep teams aligned on task and request state changes.
-
-#### 🛡️ .NET Backend Developer | Correct *(May 2024 - Nov 2024)*
-* **RoboShadow-like Security System:** Maintained and optimized high-reliability RESTful APIs, handled full deployment lifecycles across Dev/Staging/Prod environments, and mentored junior engineers.
-
-#### 🛍️ Highlighted Freelance Work *(2024 - 2025)*
-* **E-Commerce & Marketplaces:** Developed scalable server-side logic for Seller Dashboards, Affiliate Systems, and Shipping Modules across multi-role platforms using modular Clean Architecture.
+| Category | Technologies |
+|:--|:--|
+| **Backend** | C#, ASP.NET Core 8 (Web API & MVC), EF Core, LINQ, SignalR, Hangfire, AutoMapper, FluentValidation, Serilog |
+| **Frontend** | Angular 16, RxJS, TypeScript, Razor Views, jQuery, Bootstrap |
+| **Data** | SQL Server, T-SQL / Stored Procedures, EF Core Code-First Migrations |
+| **Architecture & Security** | Clean Architecture, Multi-Tenancy, Repository / Unit of Work, JWT, OAuth 2.0, Policy- & Claims-Based Authorization (RBAC) |
+| **Integrations** | Firebase FCM, Paymob, PayTabs, Braintree, ZATCA e-Invoicing, Twilio |
+| **ML / Research** | Python, TensorFlow, LIME, SHAP |
 
 ---
 
-### 🔬 Data Science & Machine Learning Research
+### 💼 Experience
 
-#### 🧠 Graduation Project: Zcare (Alzheimer's Severity Recognition Framework)
-* Designed an end-to-end multi-modal deep learning framework to recognize Alzheimer's Disease severity stages using **MRI data and genetic sequencing**.
-* Accompanied by a mobile architecture to help doctors and patients track AD progression remotely.
-* **Achievement:** Selected as one of the best 20 graduation projects in the 4th Egyptian Junior Researcher Competition (out of 660 total submissions).
+**Full-Stack Software Engineer | Ekad Software** (Jan 2025 – Present)
+- Own the HR, Payroll, CRM, Housekeeping and Quality modules of a multi-tenant ERP (ASP.NET Core 8, Clean Architecture; 93 controllers, 632 Razor views).
+- Designed a policy-based authorization pipeline: 158 permissions across 14 modules.
+- Sole architect of **BookingEngine**, a multi-tenant B2B2C hotel reservation platform: EF Core query-filter tenancy, hotel PMS integration with rollback compensation, Nusuk ticketing, FCM push notifications.
+- Delivered claims-based authorization (97 permissions) and dual JWT/cookie session revocation on an events-management platform.
 
-#### 📄 Published & Invited Research (Explainable AI)
-* **Voice-based Gender Recognition:** Implemented XAI frameworks using **LIME & SHAP** on audio pipelines featuring MFCC feature extraction and data augmentation.
-* **EMG Gesture Classification:** Compared traditional ML versus Deep Learning algorithms for 10-gesture EMG classification, utilizing **LIME & SHAP** for model interpretability and feature transparency.
+**Technical Lead / Backend Developer | Correct** (May 2024 – Nov 2024)
+- Led backend development of a multi-tenant cybersecurity SaaS platform: Nmap-based vulnerability scanning, 4 SignalR hubs for endpoint command-and-control, Braintree subscriptions.
 
----
-
-### 📁 Other Featured ML Projects
-
-* 📊 **Customer Segmentation:** Clustered behavioral patterns using unsupervised learning techniques to maximize segment separation.
-* 🎬 **Hybrid Anime Recommendation System:** Engineered a collaborative (user & item) filtering pipeline weighted by watch counts to deliver high-accuracy recommendations.
-* 🫁 **Covid-19 Chest Image Classifier:** A computer vision deep learning model to accurately classify infection status from chest X-rays.
+**Technical Lead & Full-Stack .NET Developer | Freelance** (Jan 2024 – May 2025, part-time)
+- **Shams:** Saudi e-commerce backend with ZATCA Phase 2 e-invoicing, PayTabs and an affiliate commission engine.
+- **Nileon:** multi-vendor marketplace API with event-driven multi-store orders, Paymob and WhatsApp OTP.
+- **XCar-Care:** automotive services marketplace with JWT, Google OAuth and a SignalR bidding workflow.
+- **Wathiqua:** Angular 16 insurance brokerage SPA with route-guard RBAC and ExcelJS reports.
 
 ---
 
-### 🏆 Achievements & Education
-* 🎓 **B.Sc. in Computer Science (Bio-informatics Program)** | Fayoum University — *3.6/4 GPA with Honor Degree*
-* 📜 **.NET Full Stack Web Development Diploma** | Information Technology Institute (ITI)
-* 🥈 **Competitive Programming:** Ranked 6th at Fayoum University in the Egyptian Collegiate Programming Contest (ECPC).
+### 🔬 Research & Machine Learning
+
+- **Zcare (graduation project, Excellent):** multimodal deep-learning framework for Alzheimer's severity recognition from MRI and genetic data, with a mobile companion app. Top 20 of 660 projects at the 4th Egyptian Junior Researcher Competition (UGRF, Nile University).
+- **Explainable AI (invited papers):** LIME & SHAP for voice-based gender recognition (MFCC + data augmentation) — [Springer](https://link.springer.com/book/9789819611539); and for 10-gesture EMG classification, comparing traditional ML and deep learning.
+- **Other projects:** customer segmentation (unsupervised learning), hybrid anime recommender, Covid-19 chest X-ray classifier.
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Education
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-malk&show_icons=true&theme=radical" alt="Mohamed's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-malk&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</p>
+- **B.Sc. Bioinformatics, Fayoum University** (2019–2023): Excellent with Honors, GPA 3.6/4.0
+- **ITI Web Development Track** (Nov 2023 – Mar 2024)
 
 ---
 
-### 📫 Let's Connect!
-* 💼 **LinkedIn:** [linkedin.com/in/mohamed-yasser-948016223](https://linkedin.com/in/mohamed-yasser-948016223)
-* 📧 **Email:** [mohamed23mallk26yasser@gmail.com](mailto:mohamed23mallk26yasser@gmail.com)
+### 📫 Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/mohamed-yasser-948016223)
+- 📧 mohamed23mallk26yasser@gmail.com, mohamedyasserali222@gmail.com
