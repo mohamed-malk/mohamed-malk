@@ -43,7 +43,7 @@
 ### 🔬 Research & Machine Learning
 
 - **Zcare (graduation project, Excellent):** multimodal deep-learning framework for Alzheimer's severity recognition from MRI and genetic data, with a mobile companion app. Top 20 of 660 projects at the 4th Egyptian Junior Researcher Competition (UGRF, Nile University).
-- **Explainable AI (invited papers):** LIME & SHAP for voice-based gender recognition (MFCC + data augmentation) — [Springer](https://link.springer.com/book/9789819611539); and for 10-gesture EMG classification, comparing traditional ML and deep learning.
+- **Explainable AI (invited papers):** LIME & SHAP for voice-based gender recognition (MFCC + data augmentation) — [Springer](https://link.springer.com/chapter/10.1007/978-981-96-1154-6_13); and for 10-gesture EMG classification, comparing traditional ML and deep learning.
 - **Other projects:** customer segmentation (unsupervised learning), hybrid anime recommender, Covid-19 chest X-ray classifier.
 
 ---
